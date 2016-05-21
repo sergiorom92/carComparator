@@ -38,6 +38,15 @@
         <button  id="calcularBtn">Calcular</button>
       
          </form>
+        
+          <form action = "webresources/operaciones">
+        
+        Carajo:<input type="text" name="base" id="base"/>
+        Potencia:<input type="text" name="exp" id="exp"/>
+        P:<input type="text" name="p" id="p"/>
+        <button  id="calcularBtn">Calcular</button>
+      
+         </form>
        
     </body>
 </html>
